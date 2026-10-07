@@ -1,0 +1,8 @@
+**/node_modules/
+**/.npm/
+**/.cache/
+**/.vite/
+**/__pycache__/
+**/coverage/
+**/*.tsbuildinfo
+/test/scratch/
